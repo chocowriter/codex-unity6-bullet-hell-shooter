@@ -5,9 +5,9 @@ Unity 6와 Codex를 활용해 제작한 2D 탄막 슈팅 게임 프로젝트입�
 이 프로젝트의 목적은 Codex를 단순 코드 생성 도구로 사용하는 것이 아니라, 게임 개발 과정에서 기능 분해, 코드 초안 작성, 오류 분석, 리팩토링 제안, 최적화 검토를 함께 수행하는 개발 파트너로 활용하는 방법을 실험하는 것입니다.
 
 ## 프로젝트 개요
+개발 책: [Unity 6 탄막슈팅게임 with Codex](https://wikidocs.net/edit/book/20051)
 
 ```text
-개발 책: [Unity 6 탄막슈팅게임 with Codex](https://wikidocs.net/edit/book/20051)
 장르: 2D 탄막 슈팅 게임
 엔진: Unity 6000.6.0f1
 언어: C#
